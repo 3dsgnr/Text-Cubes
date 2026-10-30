@@ -55,7 +55,39 @@ Standard text recognition systems rely heavily on classic font geometry, making 
 
 To implement this modular testing environment in your own robotics lab:
 
+---
+
 1. Navigate to the `/hardware/stl` directory.
 2. Download the base module models.
 3. 3D-print a test starter kit (recommended material: high-contrast black and white PLA or polished colored acrylic).
 4. Review `documentation/ARCHITECTURE.md` to program the character assembly rules into your vision system.
+
+---
+<img width="2000" height="1150" alt="Camel" src="https://github.com/user-attachments/assets/fc0c9a34-db1f-46e9-956d-c1317f161387" />
+
+---
+<img width="1280" height="1168" alt="Cyberpunk QR chess   Muzzle puzzle" src="https://github.com/user-attachments/assets/291c2dec-60be-45eb-9330-dc44e8c79202" />
+
+---
+<img width="2086" height="2086" alt="Coder" src="https://github.com/user-attachments/assets/0410e8bb-c026-442a-bb1e-ec75990e972c" />
+
+---
+<img width="1920" height="1080" alt="Calendar" src="https://github.com/user-attachments/assets/03855b1f-52a7-4d81-b04a-03b149977423" />
+
+---
+<img width="2400" height="2400" alt="Chair   armchair" src="https://github.com/user-attachments/assets/edcf0c5f-3808-40bd-b452-d9bdc7653584" />
+
+---
+<img width="1080" height="1080" alt="Cube" src="https://github.com/user-attachments/assets/f083dc80-e9e3-49c3-8576-76a18e71f286" />
+
+---
+<img width="1200" height="1200" alt="Toys+" src="https://github.com/user-attachments/assets/19782566-151e-4fc9-a954-c16f3b025fe9" />
+
+---
+<img width="1280" height="720" alt="Cyberpunk knots HD" src="https://github.com/user-attachments/assets/21106cdf-f653-48c4-aa52-883b17d51950" />
+
+---
+<img width="1150" height="1150" alt="Cyberpunk 3D chess 05" src="https://github.com/user-attachments/assets/8ded22fb-2b57-421a-8bb2-28e2c2b82a36" />
+
+---
+<img width="1920" height="1920" alt="MW interior" src="https://github.com/user-attachments/assets/de46edd8-e90a-497d-a8ea-f1f9191e39e9" />
